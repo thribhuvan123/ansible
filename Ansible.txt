@@ -1,3 +1,9 @@
+
+
+
+
+
+Welcome to CIDEMO
 The topology we're using is a common three tier web application architecture.
 
 We have a load balancer tear along with the application tier and database here.
